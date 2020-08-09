@@ -1,0 +1,6 @@
+Age|Height|Weight|BMI Value
+10|127|40|BMI = 24.8 kg/m2
+30|156|70|BMI = 20.1 kg/m2
+25|152|55|BMI = 20.1 kg/m2
+20|160|45|BMI = 17.6 kg/m2
+35|160|70|BMI = 20.1 kg/m2
